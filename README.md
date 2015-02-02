@@ -1,6 +1,13 @@
 # hello-world
-hello-world project
 
-Learning how to use Git. That's it.
+## hello-world project
 
-Write something new to merged later on.
+### First project on GitHub
+
+The aim of this file was to learn how to use
+
+*Headings
+
+and 
+
+*Bullet points
